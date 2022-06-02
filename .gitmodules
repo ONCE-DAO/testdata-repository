@@ -1,0 +1,3 @@
+[submodule "testdata-subrepository"]
+	path = testdata-subrepository
+	url = https://github.com/ONCE-DAO/testdata-subrepository.git
